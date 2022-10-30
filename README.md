@@ -678,6 +678,14 @@
 ![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
 <div align="center">
 
+>▼ Free Fire ▼
+
+[<img src="https://te.legra.ph/file/e6d7d87ba689ae8beb4c4.png"
+     alt="Get it on Google Play"
+     height="50">](https://play.google.com/store/apps/details?id=com.dts.freefire)
+
+>▼ Free Fire Max ▼
+
 [<img src="https://te.legra.ph/file/e6d7d87ba689ae8beb4c4.png"
      alt="Get it on Google Play"
      height="50">](https://play.google.com/store/apps/details?id=com.dts.freefiremax)
@@ -685,6 +693,7 @@
 </details>
 <details>
 <summary><h2><b>Cᴏᴘʏʀɪɢʜᴛ</b></h2></summary>
+
  > <strong>Cᴏᴘʏʀɪɢʜᴛ :</strong> © Gᴀʀᴇɴᴀ Iɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ.
 <div align="center">
 
