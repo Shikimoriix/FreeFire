@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
     ─「 Free Fire 」─
-</h3>
+</h2>
 <div align="center">
 
 ![Header](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Header.png)
