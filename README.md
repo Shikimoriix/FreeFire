@@ -1,5 +1,5 @@
 <h3 align="center">
-    ─「 Free Fire Wallpapers 」─
+    ─「 Free Fire 」─
 </h3>
 <div align="center">
 
