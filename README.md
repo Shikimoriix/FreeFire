@@ -3,7 +3,7 @@
 </h3>
 <div align="center">
 
-![Cover]()
+![Header](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Header.png)
 
 </div>
 
