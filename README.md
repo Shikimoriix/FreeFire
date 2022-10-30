@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 Free Fire 」─
+    ─「 Fʀᴇᴇ Fɪʀᴇ 」─
 </h2>
 <div align="center">
 
@@ -8,11 +8,11 @@
 </div>
 
 <details>
-<summary><h3><b>All</b></h3></summary>
-
- > <strong>Copyright :</strong> © Garena International.
+<summary><h3><b>Aʟʟ</b></h3></summary>
  
-> Just Tap To Download Image
+ > <strong>Cᴏᴘʏʀɪɢʜᴛ :</strong> © Gᴀʀᴇɴᴀ Iɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ.
+ 
+ > Jᴜsᴛ Tᴀᴘ Tᴏ Dᴏᴡɴʟᴏᴀᴅ.
 
 ![1](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
 
@@ -257,9 +257,9 @@
 </details>
 
 <details>
-<summary><h3><b>Free Fire Original</b></h3></summary>
+<summary><h3><b>Fʀᴇᴇ Fɪʀᴇ Oʀɪɢɪɴᴀʟ</b></h3></summary>
 
-> Just Tap To Download Image
+ > Jᴜsᴛ Tᴀᴘ Tᴏ Dᴏᴡɴʟᴏᴀᴅ
 
 ![1](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1e84951ea4e43a94485c30851c151ad2.jpg)
 
@@ -669,9 +669,9 @@
 
 </details>
 <details>
-<summary><h3><b>Free To Play</b></h3></summary>
+<summary><h3><b>Fʀᴇᴇ Tᴏ Pʟᴀʏ</b></h3></summary>
 
-> Download Free Fire Max
+ > Dᴏᴡɴʟᴏᴀᴅ Fʀᴇᴇ Fɪʀᴇ Mᴀx
 
 ![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
 <div align="center">
@@ -682,9 +682,9 @@
 
 </details>
 <details>
-<summary><h3><b>Brand Assets</b></h3></summary>
+<summary><h3><b>Bʀᴀɴᴅ Assᴇᴛs</b></h3></summary>
 
- > Just Tap To Download Image
+ > Jᴜsᴛ Tᴀᴘ Tᴏ Dᴏᴡɴʟᴏᴀᴅ.
 </div>
 
 [❶] **Free Fire Logo (Black)**
@@ -714,11 +714,10 @@
 [➒] **Booyah! Icon (Black)**
 ![9](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG(3).png)
 
-</details>
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
 
-© Source : [@MaximXWallaper](https://telegram.dog/MaximXWallpaper)
+© Sᴏᴜʀᴄᴇ : [Maxim](https://telegram.dog/MaximXWallpaper)
 
 </div>
