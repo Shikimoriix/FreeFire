@@ -12,7 +12,7 @@
 
  > <strong>Copyright :</strong> © Garena International.
  > <img src="https://te.legra.ph/file/463a73db05218ce3cf868.png">
- >
+ > Just Tap To Download Image
 
 ![1](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
 
@@ -258,6 +258,8 @@
 
 <details>
 <summary><h3><b>Free Fire Original</b></h3></summary>
+
+> Just Tap To Download Image
 
 ![1](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1e84951ea4e43a94485c30851c151ad2.jpg)
 
@@ -681,6 +683,8 @@
 <summary><h3><b>Brand Assets</b></h3></summary>
 
  > <strong>Brand Assets :</strong> When using Free Fire's brand assets, please stick to their original forms. Do not edit, distort, or reconfigure them without permission. Thank you for protecting our iconic brand property!
+
+> Just Tap To Download Image
 </div>
 
 [❶] **Free Fire Logo (Black)**
