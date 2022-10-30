@@ -11,7 +11,7 @@
 <details>
 <summary><h3><b>All</b></h3></summary>
 
-![1](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1e84951ea4e43a94485c30851c151ad2.jpg)
+![1](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
 
 
 </details>
