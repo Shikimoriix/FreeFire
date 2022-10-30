@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
     ─「 Fʀᴇᴇ Fɪʀᴇ 」─
-</h2>
+</h1>
 <div align="center">
 
 ![Header](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Header.png)
@@ -692,6 +692,22 @@
 ![Copyright](https://te.legra.ph/file/463a73db05218ce3cf868.png)
 
 </div>
+</details>
+<details>
+<summary><h2><b>Oғғɪᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛs</b></h2></summary>
+
+<details>
+<summary><h2>Yᴏᴜᴛᴜʙᴇ</h2></summary>
+
+</details>
+<details>
+<summary><h2>Iɴsᴛɢʀᴀᴍ</h2></summary>
+
+</details>
+<details>
+<summary><h2><b>Fᴀᴄᴇʙᴏᴏᴋ</b></h2></summary>
+
+</details>
 </details>
 <details>
 <summary><h2><b>Sυᴘᴘᴏʀᴛ</b></h2></summary>
