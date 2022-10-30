@@ -151,9 +151,9 @@
 
 ![68](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0c2969c2ee121d430927f717f5ec4e60.jpg)
 
-![69]()
+![69](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/a06c0ed254f39fe9ec2e42b16e2b52d3.jpg)
 
-![70]()
+![70](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/5495adf675e9517d4b6845ffcbe30d8d.jpg)
 
 ![]()
 
