@@ -1,6 +1,11 @@
 <h3 align="center">
     ─「 Free Fire Wallpapers 」─
 </h3>
+<div align="center">
+
+![Cover]()
+
+</div>
 
 
 <details>
