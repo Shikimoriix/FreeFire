@@ -11,10 +11,8 @@
 <summary><h2><b>Wᴀʟʟᴘᴀᴘᴇʀs</b></h2></summary>
 
 <details>
-ㅤㅤ<summary><h3><b>Aʟʟ</b></h3></summary>
- 
- > <strong>Cᴏᴘʏʀɪɢʜᴛ :</strong> © Gᴀʀᴇɴᴀ Iɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ.
- 
+ㅤ<summary><h3>Aʟʟ</h3></summary>
+  
  > Just Tap To Download.
 
 ![1](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
@@ -260,7 +258,7 @@
 </details>
 
 <details>
-ㅤㅤ<summary><h3><b>Fʀᴇᴇ Fɪʀᴇ Oʀɪɢɪɴᴀʟ</b></h3></summary>
+ㅤ<summary><h3>Fʀᴇᴇ Fɪʀᴇ Oʀɪɢɪɴᴀʟ</h3></summary>
 
  > Just Tap To Download.
 
@@ -685,10 +683,24 @@
      height="50">](https://play.google.com/store/apps/details?id=com.dts.freefiremax)
 
 </details>
+<details>
+<summary><h2><b>Cᴏᴘʏʀɪɢʜᴛ</b></h2></summary>
+
+ > <strong>Cᴏᴘʏʀɪɢʜᴛ :</strong> © Gᴀʀᴇɴᴀ Iɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ.
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
-
-© Sᴏᴜʀᴄᴇ : [Maxim](https://telegram.dog/MaximXWallpaper)
+![Copyright](https://te.legra.ph/file/463a73db05218ce3cf868.png)
 
 </div>
+</details>
+<details>
+<summary><h2><b>Sυᴘᴘᴏʀᴛ</b></h2></summary>
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
+
+© Sᴏᴜʀᴄᴇ : [@MaximXWallaper](https://telegram.dog/MaximXWallpaper)
+
+</div>
+</details>
