@@ -679,10 +679,11 @@
 </details>
 <details>
 <summary><h3><b>Brand Assets</b></h3></summary>
+
  > <strong>Brand Assets :</strong> When using Free Fire's brand assets, please stick to their original forms. Do not edit, distort, or reconfigure them without permission. Thank you for protecting our iconic brand property!
 </div>
 
-Free Fire Logo (Black)
+[❶] Free Fire Logo (Black)
 ![1](https://dl.dir.freefiremobile.com/common/test/official/FREE_FIRE_LOGO.PNG.png)
 
 <h2 align="center">
