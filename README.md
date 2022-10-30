@@ -670,6 +670,8 @@
 <details>
 <summary><h3><b>Free To Play</b></h3></summary>
 
+> Download Free Fire Max
+
 ![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
 <div align="center">
 
