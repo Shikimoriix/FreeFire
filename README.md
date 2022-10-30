@@ -696,16 +696,24 @@
 <details>
 <summary><h2><b>Oғғɪᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛs</b></h2></summary>
 
+ > Garena Free Fire All Official Accounts.
+
 <details>
-<summary><h2>Yᴏᴜᴛᴜʙᴇ</h2></summary>
+ㅤ<summary><h3>Yᴏᴜᴛᴜʙᴇ</h3></summary>
+
+ > Official YouTube Channels.
 
 </details>
 <details>
-<summary><h2>Iɴsᴛɢʀᴀᴍ</h2></summary>
+ㅤ<summary><h3>Iɴsᴛᴀɢʀᴀᴍ</h3></summary>
+
+ > Official Instagram Accounts.
 
 </details>
 <details>
-<summary><h2><b>Fᴀᴄᴇʙᴏᴏᴋ</b></h2></summary>
+ㅤ<summary><h3>Fᴀᴄᴇʙᴏᴏᴋ</h3></summary>
+
+ > Official Facebook Page.
 
 </details>
 </details>
