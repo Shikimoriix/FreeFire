@@ -673,7 +673,7 @@
 <details>
 <summary><h2><b>Fʀᴇᴇ Tᴏ Pʟᴀʏ</b></h2></summary>
 
- > Download Free Fire Max.
+ > Download Free Fire And Free Fire Max.
 
 ![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
 <div align="center">
