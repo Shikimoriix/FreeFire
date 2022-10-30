@@ -683,8 +683,32 @@
  > <strong>Brand Assets :</strong> When using Free Fire's brand assets, please stick to their original forms. Do not edit, distort, or reconfigure them without permission. Thank you for protecting our iconic brand property!
 </div>
 
-[❶] Free Fire Logo (Black)
+[❶] **Free Fire Logo (Black)**
 ![1](https://dl.dir.freefiremobile.com/common/test/official/FREE_FIRE_LOGO.PNG.png)
+
+[❷] **Free Fire Logo (White)**
+![2](https://dl.dir.freefiremobile.com/common/test/official/FREE_FIRE_LOGO.PNG(2).png)
+
+[❸] **Free Fire Max Logo**
+![3](https://dl.dir.freefiremobile.com/common/test/official/FREE_FIRE_MAX_LOGO.PNG.png)
+
+[❹] **Free Fire Short Logo**
+![4](https://dl.dir.freefiremobile.com/common/test/official/FF_SHORT_LOGO.PNG.png)
+
+[❺] **Battle In Style Slogan (White)**
+![5](https://dl.dir.freefiremobile.com/common/test/official/BATTLE_IN_STYLE_SLOGAN.PNG.png)
+
+[❻] **Battle In Style Slogan (Black)**
+![6](https://dl.dir.freefiremobile.com/common/test/official/BATTLE_IN_STYLE_SLOGAN.PNG(2).png)
+
+[➐] **Booyah! Icon**
+![7](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG.png)
+
+[➑] **Booyah! Icon (White)**
+![8](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG(2).png)
+
+[➒] **Booyah! Icon (Black)**
+![9](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG(3).png)
 
 <h2 align="center">
     ─「 Support 」─
