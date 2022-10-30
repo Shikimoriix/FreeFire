@@ -155,41 +155,43 @@
 
 ![70](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/5495adf675e9517d4b6845ffcbe30d8d.jpg)
 
-![]()
+![71](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/d58f1d59681e9a14fda480a9d1ed825b.jpg)
 
-![]()
+![72]()
 
-![]()
+![73]()
 
-![]()
+![74]()
 
-![]()
+![75]()
 
-![]()
+![76]()
 
-![]()
+![77]()
 
-![]()
+![78]()
 
-![]()
+![79]()
 
-![]()
+![80]()
 
-![]()
+![81]()
 
-![]()
+![82]()
 
-![]()
+![83]()
 
-![]()
+![84]()
 
-![]()
+![85]()
 
-![]()
+![86]()
 
-![]()
+![87]()
 
-![]()
+![89]()
+
+![90]()
 
 
 </details>
