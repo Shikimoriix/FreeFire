@@ -258,25 +258,25 @@
 <details>
 <summary><h3><b>Free Fire Original</b></h3></summary>
 
-![1]()
+![1](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1e84951ea4e43a94485c30851c151ad2.jpg)
 
-![2]()
+![2](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/ad657d3c009adbd73302a6603e6ae6d5.jpg)
 
-![3]()
+![3](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/87904deacf9b547a95f019e0a322152a.jpg)
 
-![4]()
+![4](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/526ab8efaf60be59ccf03e314e019a3a.jpg)
 
-![5]()
+![5](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1fd380549b5ac6cd90bd94bd36741aa8.jpg)
 
-![6]()
+![6](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/00d82c61db6d798e6be806ca858870ef.jpg)
 
-![7]()
+![7](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/217caa1f9379136315d0d3f801648b77.jpg)
 
-![8]()
+![8](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/f411220e9991a9136dac24efce084aa9.jpg)
 
-![9]()
+![9](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/d39941147f626d43513bf25aee5f9f4f.jpg)
 
-![10]()
+![10](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/705dac7da5777973b87d61c538c5811b.jpg)
 
 ![11]()
 
