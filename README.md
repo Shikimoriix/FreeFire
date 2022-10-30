@@ -684,9 +684,7 @@
 <details>
 <summary><h3><b>Brand Assets</b></h3></summary>
 
- > <strong>Brand Assets :</strong> When using Free Fire's brand assets, please stick to their original forms. Do not edit, distort, or reconfigure them without permission. Thank you for protecting our iconic brand property!
-
-> Just Tap To Download Image
+ > Just Tap To Download Image
 </div>
 
 [❶] **Free Fire Logo (Black)**
