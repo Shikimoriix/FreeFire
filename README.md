@@ -714,10 +714,11 @@
 [➒] **Booyah! Icon (Black)**
 ![9](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG(3).png)
 
+</details>
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
 
-© Source : [Maxim](https://telegram.dog/MaximXWallpaper)
+© Source : [@MaximXWallaper](https://telegram.dog/MaximXWallpaper)
 
 </div>
