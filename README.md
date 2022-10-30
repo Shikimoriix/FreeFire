@@ -11,6 +11,9 @@
 <details>
 <summary><h3><b>All</b></h3></summary>
 
+![1](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1e84951ea4e43a94485c30851c151ad2.jpg)
+
+
 </details>
 <details>
 <summary><h3><b>Free Fire Original</b></h3></summary>
