@@ -8,11 +8,14 @@
 </div>
 
 <details>
-<summary><h3><b>Aʟʟ</b></h3></summary>
+<summary><h2><b>Wᴀʟʟᴘᴀᴘᴇʀs</b></h2></summary>
+
+<details>
+ㅤㅤ<summary><h3><b>Aʟʟ</b></h3></summary>
  
  > <strong>Cᴏᴘʏʀɪɢʜᴛ :</strong> © Gᴀʀᴇɴᴀ Iɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ.
  
- > Jᴜsᴛ Tᴀᴘ Tᴏ Dᴏᴡɴʟᴏᴀᴅ.
+ > Just Tap To Download.
 
 ![1](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
 
@@ -257,9 +260,9 @@
 </details>
 
 <details>
-<summary><h3><b>Fʀᴇᴇ Fɪʀᴇ Oʀɪɢɪɴᴀʟ</b></h3></summary>
+ㅤㅤ<summary><h3><b>Fʀᴇᴇ Fɪʀᴇ Oʀɪɢɪɴᴀʟ</b></h3></summary>
 
- > Jᴜsᴛ Tᴀᴘ Tᴏ Dᴏᴡɴʟᴏᴀᴅ
+ > Just Tap To Download.
 
 ![1](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1e84951ea4e43a94485c30851c151ad2.jpg)
 
@@ -668,10 +671,11 @@
 ![A4](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
 
 </details>
+</details>
 <details>
-<summary><h3><b>Fʀᴇᴇ Tᴏ Pʟᴀʏ</b></h3></summary>
+<summary><h2><b>Fʀᴇᴇ Tᴏ Pʟᴀʏ</b></h2></summary>
 
- > Dᴏᴡɴʟᴏᴀᴅ Fʀᴇᴇ Fɪʀᴇ Mᴀx
+ > Download Free Fire Max.
 
 ![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
 <div align="center">
@@ -681,39 +685,6 @@
      height="50">](https://play.google.com/store/apps/details?id=com.dts.freefiremax)
 
 </details>
-<details>
-<summary><h3><b>Bʀᴀɴᴅ Assᴇᴛs</b></h3></summary>
-
- > Jᴜsᴛ Tᴀᴘ Tᴏ Dᴏᴡɴʟᴏᴀᴅ.
-</div>
-
-[❶] **Free Fire Logo (Black)**
-![1](https://dl.dir.freefiremobile.com/common/test/official/FREE_FIRE_LOGO.PNG.png)
-
-[❷] **Free Fire Logo (White)**
-![2](https://dl.dir.freefiremobile.com/common/test/official/FREE_FIRE_LOGO.PNG(2).png)
-
-[❸] **Free Fire Max Logo**
-![3](https://dl.dir.freefiremobile.com/common/test/official/FREE_FIRE_MAX_LOGO.PNG.png)
-
-[❹] **Free Fire Short Logo**
-![4](https://dl.dir.freefiremobile.com/common/test/official/FF_SHORT_LOGO.PNG.png)
-
-[❺] **Battle In Style Slogan (White)**
-![5](https://dl.dir.freefiremobile.com/common/test/official/BATTLE_IN_STYLE_SLOGAN.PNG.png)
-
-[❻] **Battle In Style Slogan (Black)**
-![6](https://dl.dir.freefiremobile.com/common/test/official/BATTLE_IN_STYLE_SLOGAN.PNG(2).png)
-
-[➐] **Booyah! Icon**
-![7](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG.png)
-
-[➑] **Booyah! Icon (White)**
-![8](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG(2).png)
-
-[➒] **Booyah! Icon (Black)**
-![9](https://dl.dir.freefiremobile.com/common/test/official/BOOYAH_ICON.PNG(3).png)
-
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
