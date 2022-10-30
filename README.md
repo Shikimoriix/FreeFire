@@ -671,9 +671,12 @@
 
 ![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
 
-![<img src="https://te.legra.ph/file/e6d7d87ba689ae8beb4c4.png"
+[<img src="https://te.legra.ph/file/e6d7d87ba689ae8beb4c4.png"
      alt="Get it on Google Play"
-     height="50">]()
+     height="50">](https://play.google.com/store/apps/details?id=com.dts.freefiremax) [<img src="https://te.legra.ph/file/73cfece6f67373d1eb6bb.png"
+     alt="Get it on Google Play"
+     height="50">](https://apps.apple.com/my/app/garena-free-fire-max/id1480516829)
+
 </details>
 <h2 align="center">
     ─「 Support 」─
