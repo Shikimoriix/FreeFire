@@ -11,7 +11,8 @@
 <summary><h3><b>All</b></h3></summary>
 
  > <strong>Copyright :</strong> © Garena International.
- > Just Tap To Download Image
+ 
+> Just Tap To Download Image
 
 ![1](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
 
