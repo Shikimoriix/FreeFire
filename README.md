@@ -702,30 +702,6 @@
 </div>
 </details>
 <details>
-<summary><h2><b>Oғғɪᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛs</b></h2></summary>
-
- > Garena Free Fire All Official Accounts.
-
-<details>
-ㅤ<summary><h3>YouTube</h3></summary>
-
- > Official YouTube Channels.
-
-</details>
-<details>
-ㅤ<summary><h3>Instagram</h3></summary>
-
- > Official Instagram Accounts.
-
-</details>
-<details>
-ㅤ<summary><h3>Facebook</h3></summary>
-
- > Official Facebook Page.
-
-</details>
-</details>
-<details>
 <summary><h2><b>Sυᴘᴘᴏʀᴛ</b></h2></summary>
 
  > Connect With Me.
