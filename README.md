@@ -11,7 +11,7 @@
 <summary><h2><b>Wᴀʟʟᴘᴀᴘᴇʀs</b></h2></summary>
 
 <details>
-ㅤ<summary><h3>Aʟʟ</h3></summary>
+ㅤ<summary><h3>All</h3></summary>
 
  > Just Tap To Download.
 
@@ -258,7 +258,7 @@
 </details>
 
 <details>
-ㅤ<summary><h3>Fʀᴇᴇ Fɪʀᴇ Oʀɪɢɪɴᴀʟ</h3></summary>
+ㅤ<summary><h3>Free Fire Original</h3></summary>
 
  > Just Tap To Download.
 
@@ -707,19 +707,19 @@
  > Garena Free Fire All Official Accounts.
 
 <details>
-ㅤ<summary><h3>Yᴏᴜᴛᴜʙᴇ</h3></summary>
+ㅤ<summary><h3>YouTube</h3></summary>
 
  > Official YouTube Channels.
 
 </details>
 <details>
-ㅤ<summary><h3>Iɴsᴛᴀɢʀᴀᴍ</h3></summary>
+ㅤ<summary><h3>Instagram</h3></summary>
 
  > Official Instagram Accounts.
 
 </details>
 <details>
-ㅤ<summary><h3>Fᴀᴄᴇʙᴏᴏᴋ</h3></summary>
+ㅤ<summary><h3>Facebook</h3></summary>
 
  > Official Facebook Page.
 
