@@ -673,7 +673,7 @@
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on"
-     height="80">](https://f-droid.org/packages/com.wbrawner.simplemarkdown.free/)
+     height="80">]()
 </details>
 <h2 align="center">
     ─「 Support 」─
