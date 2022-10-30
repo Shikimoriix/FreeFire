@@ -669,7 +669,7 @@
 <details>
 <summary><h3><b>Free To Play</b></h3></summary>
 
-![Kelly](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
+![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
 
 </details>
 <h2 align="center">
