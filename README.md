@@ -12,7 +12,6 @@
 
 <details>
 ㅤ<summary><h3>Aʟʟ</h3></summary>
-  
  > Just Tap To Download.
 
 ![1](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0e89beb84e7215a668631021ec47b2a3.jpg)
@@ -259,7 +258,6 @@
 
 <details>
 ㅤ<summary><h3>Fʀᴇᴇ Fɪʀᴇ Oʀɪɢɪɴᴀʟ</h3></summary>
-
  > Just Tap To Download.
 
 ![1](https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/1e84951ea4e43a94485c30851c151ad2.jpg)
@@ -672,7 +670,6 @@
 </details>
 <details>
 <summary><h2><b>Fʀᴇᴇ Tᴏ Pʟᴀʏ</b></h2></summary>
-
  > Download Free Fire Max.
 
 ![Kelly](https://github.com/AL3X-Github/FreeFire/blob/main/Resources/Crush.png)
@@ -685,7 +682,6 @@
 </details>
 <details>
 <summary><h2><b>Cᴏᴘʏʀɪɢʜᴛ</b></h2></summary>
-
  > <strong>Cᴏᴘʏʀɪɢʜᴛ :</strong> © Gᴀʀᴇɴᴀ Iɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ.
 <div align="center">
 
@@ -695,24 +691,20 @@
 </details>
 <details>
 <summary><h2><b>Oғғɪᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛs</b></h2></summary>
-
  > Garena Free Fire All Official Accounts.
 
 <details>
 ㅤ<summary><h3>Yᴏᴜᴛᴜʙᴇ</h3></summary>
-
  > Official YouTube Channels.
 
 </details>
 <details>
 ㅤ<summary><h3>Iɴsᴛᴀɢʀᴀᴍ</h3></summary>
-
  > Official Instagram Accounts.
 
 </details>
 <details>
 ㅤ<summary><h3>Fᴀᴄᴇʙᴏᴏᴋ</h3></summary>
-
  > Official Facebook Page.
 
 </details>
