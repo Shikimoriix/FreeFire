@@ -143,17 +143,17 @@
 
 ![64](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/cd8eb521baee5018ce77a1a3d9c5e535.jpg)
 
-![65]()
+![65](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/490f9af361e362c0949a6d52b3c853f6.jpg)
 
-![]()
+![66](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0b6daf755cf989cdbdca3b697dc08e6e.jpg)
 
-![]()
+![67](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/b1b8a60daf685a2a9349be9fdb8f086e.jpg)
 
-![]()
+![68](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0c2969c2ee121d430927f717f5ec4e60.jpg)
 
-![]()
+![69]()
 
-![]()
+![70]()
 
 ![]()
 
