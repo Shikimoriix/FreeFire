@@ -179,20 +179,21 @@
 
 ![82](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/b99d65dccbbccbdd4397adf7c01b912e.jpg)
 
-![83]()
+![83](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/8bba070572554afd0bc782e8428107e5.jpg)
 
-![84]()
+![84](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/6418cde63d88b11d80ed2b90e4797038.jpg)
 
-![85]()
+![85](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/64281bb407fb8b2321a48ee35f487f07.jpg)
 
-![86]()
+![86](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/63b4b6a53c2aaf2aee801591afadeb88.jpg)
 
-![87]()
+![87](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/049cf13ba1576679c4b194e80c4232f1.jpg)
 
-![89]()
+![88](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/d575b3a0640148dc311b0846630cbf89.jpg)
 
-![90]()
+![89](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/0b61217ffffb6a196c3f279c2f456727.jpg)
 
+![90](https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/a4155d02abfc86a366e925de96c2cb7c.jpg)
 
 </details>
 <details>
