@@ -710,7 +710,11 @@
 
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
 
-©️ [@MaximXWallpaper](https://telegram.dog/MaximXWallpaper)
+**Source** [@MaximXWallpaper](https://telegram.dog/MaximXWallpaper)
 
 </div>
 </details>
+
+<div align="center">
+Last modified : 31 October 2022
+</div>
